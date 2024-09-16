@@ -1,0 +1,23 @@
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\CLDV ICE TASK 3.exe
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\CLDV ICE TASK 3.deps.json
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\CLDV ICE TASK 3.runtimeconfig.json
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\CLDV ICE TASK 3.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\CLDV ICE TASK 3.pdb
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.csproj.AssemblyReference.cache
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.AssemblyInfoInputs.cache
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.AssemblyInfo.cs
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.csproj.CoreCompileInputs.cache
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE.C4809001.Up2Date
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\refint\CLDV ICE TASK 3.dll
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.pdb
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\CLDV ICE TASK 3.genruntimeconfig.cache
+C:\Users\Lebohang\source\repos\CLDV ICE TASK 3\CLDV ICE TASK 3\obj\Debug\net8.0\ref\CLDV ICE TASK 3.dll
